@@ -1,7 +1,9 @@
+
 /**
  *
  * @author Alex
  */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -14,7 +16,7 @@ public class HelloWorld {
     
         for (String line; (line = r.readLine()) != null;) 
         {
-            System.out.print(line);
+            System.out.println(line);
         }
     }
 }
