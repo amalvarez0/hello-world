@@ -1,0 +1,5 @@
+Hello World
+My name is Alex. 
+I am a computer science major. 
+My favorite food is Tacos.
+My favorite snack is Ice Cream.
